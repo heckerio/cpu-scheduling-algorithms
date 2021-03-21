@@ -9,10 +9,10 @@ My team member and I have picked Preemptive SJF, Non Preemprive SJF and Preempti
 1. User should be able to enter the details about the processes such as Arrival Time, Burst Time and Priority that assigned at the beginning of simulation and the number of processes can range from 3 to 10.
 2. Executing the program should show the Gantt chart (visual form) of each algorithm.
 3. Calculation of
-    a. Turnaround time for each process,
-    b. Total and Average Turnaround time for the entire processes,
-    c. Average waiting time for each process,
-    d. Total and average waiting time for the entire processes.
+a. Turnaround time for each process,
+b. Total and Average Turnaround time for the entire processes,
+c. Average waiting time for each process,
+d. Total and average waiting time for the entire processes.
 
 ## Contributions
 
